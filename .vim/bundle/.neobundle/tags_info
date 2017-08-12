@@ -1,0 +1,5 @@
+lightline.vim
+neobundle.vim
+neocomplete.vim
+neosnippet
+neosnippet-snippets
